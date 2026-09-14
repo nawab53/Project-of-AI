@@ -17,3 +17,4 @@ altamash
 extra folder ke liye ek localrepo krke bnana hai.
 <br>
 localrepo.
+<p> this a new paragraph of project of AI in README.md<p>
